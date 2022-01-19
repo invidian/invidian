@@ -1,9 +1,15 @@
 ### My projects
 
+#### Kubernetes
+
+- [Flexkube](https://github.com/flexkube) - Flexible Kubernetes distribution.
+- [metallb-hcloud-controller](https://github.com/invidian/metallb-hcloud-controller) - MetalLB controller for Hetzner Cloud Floating IPs.
+- [validating-admission-webhook-server](https://github.com/invidian/validating-admission-webhook-server) - PoC validating admission webhook.
+
 #### Applications
 
-- [gallery](https://github.com/invidian/gallery) - WIP Simple self-hosted Google Photo replacement.
 - [finance-app](https://github.com/finance-app) - Self-hosted application for managing personal finances.
+- [gallery](https://github.com/invidian/gallery) - WIP Simple self-hosted Google Photo replacement.
 
 #### Xfce plugins
 
@@ -14,7 +20,6 @@
 #### AUR packages
 
 - [xfce4-hamster-plugin-aur](https://github.com/invidian/xfce4-hamster-plugin-aur)
-- [droidcam-aur](https://github.com/invidian/droidcam-aur)
 - [xfce4-windowck-plugin-aur](https://github.com/invidian/xfce4-windowck-plugin-aur)
 
 #### Terraform providers
@@ -23,12 +28,6 @@
 - [terraform-provider-gpg](https://github.com/invidian/terraform-provider-gpg)
 - [terraform-provider-stdlib](https://github.com/invidian/terraform-provider-stdlib)
 - [terraform-provider-flexkube](https://github.com/flexkube/terraform-provider-flexkube)
-
-#### Kubernetes
-
-- [Flexkube](https://github.com/flexkube) - Flexible Kubernetes distribution.
-- [metallb-hcloud-controller](https://github.com/invidian/metallb-hcloud-controller) - MetalLB controller for Hetzner Cloud Floating IPs.
-- [validating-admission-webhook-server](https://github.com/invidian/validating-admission-webhook-server) - PoC validating admission webhook.
 
 #### Others
 
