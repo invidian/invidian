@@ -1,3 +1,5 @@
+<img alt="Mateusz Gozdek's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=invidian">
+
 ### My projects
 
 #### Kubernetes
